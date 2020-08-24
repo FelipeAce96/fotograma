@@ -1,0 +1,25 @@
+.card_item_header{
+    display: flex;
+    align-items: center;
+    padding:10px;
+    justify-content: space-between;
+}
+
+.scores{
+    display: flex;
+}
+
+.post_share{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.card_item_image :hover{
+    cursor: pointer;
+}
+
+.btn_login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}

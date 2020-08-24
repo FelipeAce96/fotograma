@@ -1,0 +1,19 @@
+[0805/170507.205:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0806/001533.041:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0806/001533.126:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0806/014433.943:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0806/134056.049:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0806/134056.117:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0807/184820.590:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0807/184820.702:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0807/190734.464:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0807/190734.821:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0815/140836.604:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0815/140836.650:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0815/174238.985:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0816/182045.262:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0816/182125.284:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0817/121406.704:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0817/121406.830:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0823/120800.427:ERROR:exit_code_watcher_win.cc(87)] Failed to wait for process exit or stop event
+[0823/120800.508:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: Ha terminado la canalización. (0x6D)

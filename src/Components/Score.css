@@ -1,0 +1,13 @@
+.score{
+    padding: 10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 100px;
+    justify-content: center;
+    height: 40px;
+    width: 40px;
+    object-fit: contain;
+
+}

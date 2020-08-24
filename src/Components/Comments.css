@@ -1,0 +1,25 @@
+.comment{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 10px;
+}
+
+.comment_user{
+    display: flex;
+    flex-direction: column;
+    flex:1;
+    padding-bottom:5px;
+}
+
+.comment_user_date{
+    color:grey;
+    font-size: small;
+    font-weight: 300;
+}
+
+.comment >.score{
+    margin-right: 20px;
+}
